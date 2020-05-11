@@ -1,11 +1,14 @@
 # Matchga.me
 
-## Problem Solved:
+## How It Works:
+- Create an account
+- Create a team or choose to play solo
+- Create challenges in different sports/activities
+- Once another player/team accepts the challenge, an event will be created.
+- Meet up at the predecided time and place, and enjoy!
 
-
-## Screenshots:
-![Desktop]()
-![Mobile]()
+## Demo:
+[![Video Demo](https://img.youtube.com/vi/pgoZ6rd2LWY/0.jpg)](https://www.youtube.com/watch?v=pgoZ6rd2LWY)
 
 ## Technologies Used:
 - Frontend
@@ -20,9 +23,6 @@
     - [Amazon Web Services](https://aws.amazon.com/)
         - [EC2](https://aws.amazon.com/ec2/)
         - [RDS](https://aws.amazon.com/rds/)
-
-## How It Works:
-- 
 
 ## New Features That Could Be Added:
 - Have tournaments with multiple teams/sports
